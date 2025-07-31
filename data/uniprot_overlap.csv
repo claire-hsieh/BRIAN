@@ -1,0 +1,116 @@
+Proteome_ID,Common Name,Species
+UP000504623,chrysochloris asiatica (cape golden mole),chrysochloris asiatica
+UP000504613,odocoileus virginianus texanus,odocoileus virginianus
+UP000314981,bos indicus x bos taurus (hybrid cattle),bos taurus
+UP000009136,bos taurus (bovine),bos taurus
+UP000515208,bison bison bison (north american plains bison),bison bison
+UP000299084,camelus dromedarius (dromedary) (arabian camel),camelus dromedarius
+UP000291000,capra hircus (goat),capra hircus
+UP000008227,sus scrofa (pig),sus scrofa
+UP000002356,ovis aries (sheep),ovis aries
+UP000694520,bos mutus grunniens (wild yak) (bos grunniens),bos grunniens
+UP000242450,cervus elaphus hippelaphus (european red deer),cervus elaphus
+UP000030684,camelus ferus (wild bactrian camel) (camelus bactrianus ferus),camelus bactrianus
+UP000694950,camelus bactrianus (bactrian camel),camelus bactrianus
+UP000675900,panthera tigris altaica (siberian tiger),panthera tigris
+UP000286641,callorhinus ursinus (northern fur seal),callorhinus ursinus
+UP000261680,ursus maritimus (polar bear) (thalarctos maritimus),ursus maritimus
+UP000245341,leptonychotes weddellii (weddell seal) (otaria weddellii),leptonychotes weddellii
+UP000245340,odobenus rosmarus divergens (pacific walrus),odobenus rosmarus
+UP000286640,vulpes vulpes (red fox),vulpes vulpes
+UP000000715,mustela putorius furo (european domestic ferret) (mustela furo),mustela putorius
+UP000472241,lynx canadensis (canada lynx) (felis canadensis),lynx canadensis
+UP000515131,puma concolor (mountain lion) (felis concolor),puma concolor
+UP000291022,ursus americanus (american black bear) (euarctos americanus),ursus americanus
+UP000248481,neomonachus schauinslandi (hawaiian monk seal) (monachus schauinslandi),monachus schauinslandi
+UP000694425,neovison vison (american mink) (mustela vison),neovison vison
+UP000472268,suricata suricatta (meerkat),suricata suricatta
+UP000011712,felis catus (cat) (felis silvestris catus),felis silvestris
+UP000645828,nyctereutes procyonoides (raccoon dog) (canis procyonoides),nyctereutes procyonoides
+UP000269945,gulo gulo (wolverine) (gluton),gulo gulo
+UP000504626,acinonyx jubatus (cheetah),acinonyx jubatus
+UP000248482,enhydra lutris kenyoni (northern sea otter),enhydra lutris
+UP000694391,canis lupus dingo (dingo),canis lupus
+UP000805418,canis lupus familiaris (dog) (canis familiaris),canis lupus
+UP000475037,crocuta crocuta (spotted hyena),crocuta crocuta
+UP000008912,ailuropoda melanoleuca (giant panda),ailuropoda melanoleuca
+UP000694399,panthera leo (lion),panthera leo
+UP000245320,tursiops truncatus (atlantic bottle-nosed dolphin) (delphinus truncatus),tursiops truncatus
+UP000248483,delphinapterus leucas (beluga whale),delphinapterus leucas
+UP000437017,balaenoptera physalus (fin whale) (balaena physalus),balaenoptera physalus
+UP000252040,neophocaena asiaeorientalis asiaeorientalis (yangtze finless porpoise) (neophocaena phocaenoides subsp. asiaeorientalis),neophocaena phocaenoides
+UP000265300,lipotes vexillifer (yangtze river dolphin),lipotes vexillifer
+UP000261681,balaenoptera acutorostrata scammoni (north pacific minke whale) (balaenoptera davidsoni),balaenoptera acutorostrata
+UP000308365,monodon monoceros (narwhal) (ceratodon monodon),monodon monoceros
+UP000694857,balaenoptera musculus (blue whale),balaenoptera musculus
+UP000243164,eschrichtius robustus (california gray whale) (eschrichtius gibbosus),eschrichtius robustus
+UP000248484,physeter macrocephalus (sperm whale) (physeter catodon),physeter catodon
+UP000472240,rhinolophus ferrumequinum (greater horseshoe bat),rhinolophus ferrumequinum
+UP000527355,myotis myotis (greater mouse-eared bat),myotis myotis
+UP000504628,phyllostomus discolor (pale spear-nosed bat),phyllostomus discolor
+UP000593571,rousettus aegyptiacus (egyptian fruit bat) (pteropus aegyptiacus),rousettus aegyptiacus
+UP000515202,pteropus vampyrus (large flying fox),pteropus vampyrus
+UP000001074,myotis lucifugus (little brown bat),myotis lucifugus
+UP000558488,pipistrellus kuhlii (kuhl's pipistrelle),pipistrellus kuhlii
+UP000550707,molossus molossus (pallas' mastiff bat) (vespertilio molossus),molossus molossus
+UP000694851,hipposideros armiger (great himalayan leaf-nosed bat),hipposideros armiger
+UP000010552,pteropus alecto (black flying fox),pteropus alecto
+UP000007648,sarcophilus harrisii (tasmanian devil) (sarcophilus laniarius),sarcophilus harrisii
+UP000515140,phascolarctos cinereus (koala),phascolarctos cinereus
+UP000314987,vombatus ursinus (common wombat),vombatus ursinus
+UP000079721,erinaceus europaeus (western european hedgehog),erinaceus europaeus
+UP000001811,oryctolagus cuniculus (rabbit),oryctolagus cuniculus
+UP000002279,ornithorhynchus anatinus (duckbill platypus),ornithorhynchus anatinus
+UP000694387,equus asinus (donkey) (equus africanus asinus),equus asinus
+UP000551758,diceros bicornis minor (south-central black rhinoceros),diceros bicornis
+UP000002281,equus caballus (horse),equus caballus
+UP000189704,carlito syrichta (philippine tarsier) (tarsius syrichta),tarsius syrichta
+UP000008225,callithrix jacchus (white-tufted-ear marmoset),callithrix jacchus
+UP000005225,otolemur garnettii (small-eared galago) (garnett's greater bushbaby),otolemur garnettii
+UP000233160,propithecus coquereli (coquerel's sifaka) (propithecus verreauxi coquereli),propithecus verreauxi
+UP000029965,chlorocebus sabaeus (green monkey) (cercopithecus sabaeus),chlorocebus sabaeus
+UP000233100,macaca fascicularis (crab-eating macaque) (cynomolgus monkey),macaca fascicularis
+UP000233040,cebus imitator (panamanian white-faced capuchin) (cebus capucinus imitator),cebus capucinus
+UP000694416,piliocolobus tephrosceles (ugandan red colobus),piliocolobus tephrosceles
+UP000492440,hepatocystis sp. ex piliocolobus tephrosceles,piliocolobus tephrosceles
+UP000504640,sapajus apella (brown-capped capuchin) (cebus apella),cebus apella
+UP000006718,macaca mulatta (rhesus macaque),macaca mulatta
+UP000233060,cercocebus atys (sooty mangabey) (cercocebus torquatus atys),cercocebus atys
+UP000233200,rhinopithecus roxellana (golden snub-nosed monkey) (pygathrix roxellana),rhinopithecus roxellana
+UP000233140,mandrillus leucophaeus (drill) (papio leucophaeus),mandrillus leucophaeus
+UP000240080,pan paniscus (pygmy chimpanzee) (bonobo),pan paniscus
+UP000001595,pongo abelii (sumatran orangutan) (pongo pygmaeus abelii),pongo abelii
+UP000002277,pan troglodytes (chimpanzee),pan troglodytes
+UP000001519,gorilla gorilla gorilla (western lowland gorilla),gorilla gorilla
+UP000005640,homo sapiens (human),homo sapiens
+UP000233220,saimiri boliviensis boliviensis (bolivian squirrel monkey),saimiri boliviensis
+UP000694411,theropithecus gelada (gelada baboon),theropithecus gelada
+UP000233080,colobus angolensis palliatus (peters' angolan colobus),colobus angolensis
+UP000694394,microcebus murinus (gray mouse lemur) (lemur murinus),microcebus murinus
+UP000694414,prolemur simus (greater bamboo lemur) (hapalemur simus),prolemur simus
+UP000233120,macaca nemestrina (pig-tailed macaque),macaca nemestrina
+UP000028761,papio anubis (olive baboon),papio anubis
+UP000007646,loxodonta africana (african elephant),loxodonta africana
+UP000006813,heterocephalus glaber (naked mole rat),heterocephalus glaber
+UP000504601,peromyscus maniculatus bairdii (prairie deer mouse),peromyscus maniculatus
+UP000710432,microtus ochrogaster (prairie vole),microtus ochrogaster
+UP000081671,dipodomys ordii (ord's kangaroo rat),dipodomys ordii
+UP000694385,jaculus jaculus (lesser egyptian jerboa),jaculus jaculus
+UP000005215,ictidomys tridecemlineatus (thirteen-lined ground squirrel) (spermophilus tridecemlineatus),spermophilus tridecemlineatus
+UP000694422,spermophilus dauricus (daurian ground squirrel),spermophilus dauricus
+UP000694417,urocitellus parryii (arctic ground squirrel) (spermophilus parryii),spermophilus parryii
+UP000694564,sciurus vulgaris (eurasian red squirrel),sciurus vulgaris
+UP001166674,sciurus carolinensis (eastern gray squirrel),sciurus carolinensis
+UP000335636,marmota monax (woodchuck),marmota monax
+UP000694407,marmota marmota marmota (alpine marmot),marmota marmota
+UP000005447,cavia porcellus (guinea pig),cavia porcellus
+UP000000589,mus musculus (mouse),mus musculus
+UP000001075,cricetulus griseus (chinese hamster) (cricetulus barabensis griseus),cricetulus barabensis
+UP000189706,mesocricetus auratus (golden hamster),mesocricetus auratus
+UP000515203,octodon degus (degu) (sciurus degus),octodon degus
+UP000694398,chinchilla lanigera (long-tailed chinchilla) (chinchilla villidera),chinchilla lanigera
+UP000002494,rattus norvegicus (rat),rattus norvegicus
+UP000694852,castor canadensis (american beaver),castor canadensis
+UP000248480,trichechus manatus latirostris (florida manatee),trichechus manatus
+UP000700334,galemys pyrenaicus (iberian desman) (pyrenean desman),galemys pyrenaicus
+UP000694850,orycteropus afer afer,orycteropus afer
